@@ -1,0 +1,15 @@
+[submodule "APIGateway"]
+	path = APIGateway
+	url = https://github.com/rijildaniel/ScalerProjectCapstone.git
+[submodule "EmailServiceCapstone"]
+	path = EmailServiceCapstone
+	url = https://github.com/rijildaniel/ScalerProjectCapstone.git
+[submodule "ProjectCapstone"]
+	path = ProjectCapstone
+	url = https://github.com/rijildaniel/ScalerProjectCapstone.git
+[submodule "ServiceDiscovery"]
+	path = ServiceDiscovery
+	url = https://github.com/rijildaniel/ScalerProjectCapstone.git
+[submodule "UserServiceCapstone"]
+	path = UserServiceCapstone
+	url = https://github.com/rijildaniel/ScalerProjectCapstone.git
