@@ -6,7 +6,7 @@
 	url = https://github.com/rijildaniel/ScalerProjectCapstone.git
 [submodule "ProjectCapstone"]
 	path = ProjectCapstone
-	url = https://github.com/rijildaniel/ScalerProjectCapstone.git
+	url = https://github.com/rijildaniel/ProjectCapstone.git
 [submodule "ServiceDiscovery"]
 	path = ServiceDiscovery
 	url = https://github.com/rijildaniel/ScalerProjectCapstone.git
